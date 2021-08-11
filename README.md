@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @stefanhaerter
-- 👀 I’m interested in Python for Data Analytics and Machine Learning
-- 🌱 I’m currently learning how to program a Reinforcement Learning agent
+- 👀 I’m interested in Perl
 - 📫 How to reach me: Email (stefan.haerter0@gmail.com)
 
 <!---
