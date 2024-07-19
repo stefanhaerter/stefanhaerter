@@ -1,9 +1,11 @@
 ```sh
 ~$ whoami
 @stefanhaerter
+```
 
-~$ cat ~/interests.md
-# IT / Programming
+# Interests
+
+## IT / Programming
 
 - Linux (Mint for quite some time, new to 'I use Arch, btw')
 - Perl (currently experimenting with [Dancer2](https://metacpan.org/dist/Dancer2/view/lib/Dancer2/Manual.pod))
@@ -13,12 +15,14 @@
 - docker (only using it, but eager to increase my knowledge)
 - Continuous Integration (see docker)
 
-# Other
+## Other
 
 - Bible reading
 - Playing old games on PC
 
-~$ cat ~/contact_info.md
+# How to reach me
+
+- Blog: https://text.gedankenblogsammlung.de/en/
 - Mail: stefan.haerter0@gmail.com
 - Fediverse: demiguise@linuxrocks.online
 ```
