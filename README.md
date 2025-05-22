@@ -24,7 +24,7 @@
 
 - Blog: https://text.gedankenblogsammlung.de/en/
 - Mail: stefan.haerter0@gmail.com
-- Fediverse: demiguise@linuxrocks.online
+- Mastodon: demiguise@linuxrocks.online
 ```
 
 <!---
