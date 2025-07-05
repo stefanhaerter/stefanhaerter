@@ -18,5 +18,5 @@
 
 - Blog: https://text.gedankenblogsammlung.de/en/
 - Mail: stefan.haerter0@gmail.com
-- Mastodon: demiguise@linuxrocks.online
-- Pixelfed: demiguise@bonn.pics
+- Mastodon: https://linuxrocks.online/@demiguise
+- Pixelfed: https://bonn.pics/demiguise
