@@ -16,7 +16,7 @@
 
 # How to reach me
 
-- Blog: https://text.gedankenblogsammlung.de/en/
+- Blog: https://text.gedankenblogsammlung.de/
 - Mail: stefan.haerter0@gmail.com
 - Mastodon: https://linuxrocks.online/@demiguise
 - Pixelfed: https://bonn.pics/demiguise
