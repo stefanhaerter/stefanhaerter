@@ -1,3 +1,7 @@
+# Opinion on AI
+
+https://infosec.exchange/@Em0nM4stodon/115691265301159992
+
 # Interests
 
 ## IT / Programming
